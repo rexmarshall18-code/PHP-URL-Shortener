@@ -1,0 +1,8 @@
+# Ignore sensitive and local files
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+vendor/
+*.log
